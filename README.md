@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Nupoor10/Nupoor10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+## :computer: About Me
+I am an undergraduate student at Rajiv Gandhi Institute if Technology. I am an Open Source Enthuiast and love contributing to projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭.
+I am currently working on building full stack projects using th MERN Stack
+- 🌱 
+I am currently learning web development and the MERN Stack. I am also exloring the field of AI & ML
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on [LinkedIn](https://www.linkedin.com/in/nupoor-shetye-8452111a7/)
