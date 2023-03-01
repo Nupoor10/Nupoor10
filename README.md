@@ -8,7 +8,7 @@
 I am an undergraduate student at Rajiv Gandhi Institute if Technology. I am an Open Source Enthuiast and love contributing to projects. 
 
 - 🔭.
-I am currently working on building full stack projects using th MERN Stack
+I am currently working on building full stack projects using the MERN Stack
 - 🌱 
 I am currently learning web development and the MERN Stack. I am also exloring the field of AI & ML
 - 📫 How to reach me: ...
